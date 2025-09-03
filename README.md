@@ -35,7 +35,7 @@ Since the release is intended for UNIX systems, the recommendation it to do as f
 - Install `g++`, `make`, `cmake` and any other build prerequisites
 - Run the following commands:
 ```shell
-git clone https://github.com/rozukke/mcpp.git && cd mcpp
+git clone https://github.com/rmit-computing-technologies/mcpp.git && cd mcpp
 cmake -B build && cd build
 sudo make install
 ```
